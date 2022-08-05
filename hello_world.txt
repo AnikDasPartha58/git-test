@@ -1,2 +1,4 @@
 Hello world.
 Practicing git.
+Not bad.
+fun.
