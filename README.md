@@ -3,6 +3,6 @@
 My first github testing repo.
 Hello odin!
 
-# bitch section
+# new section
 
-1.hello bitch form bangladesh
+1.hello people form bangladesh.
